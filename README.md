@@ -1,2 +1,2 @@
 # ProfileWeb
-Mi presentación y de la comunica cultura informática 
+Mi presentación y de la comunidad de cultura informática 
